@@ -1,0 +1,73 @@
+product_id,product_name,category,subcategory,brand,supplier,unit_cost,unit_price
+P0001,Northwind Kids Bike Comp,Bikes,Kids Bikes,Northwind,Frazier Inc,1729.63,3412.97
+P0002,Alpine Gear Hybrid Bike Pro,Bikes,Hybrid Bikes,Alpine Gear,"Dyer, Potter and Mack",1192.8,2146.53
+P0003,Alpine Gear Mountain Bike,Bikes,Mountain Bikes,Alpine Gear,Rodriguez-Graham,1996.12,3451.71
+P0004,TrailForge Road Bike Classic,Bikes,Road Bikes,TrailForge,Smith-Bowen,648.16,1188.52
+P0005,Alpine Gear Mountain Bike Sport,Bikes,Mountain Bikes,Alpine Gear,"Baker, Mason and White",,1435.87
+P0006,Ridgeback Road Bike Trail,Bikes,Road Bikes,Ridgeback,Harrell LLC,977.46,2008.25
+P0007,Alpine Gear Kids Bike Comp,Bikes,Kids Bikes,Alpine Gear,"Romero, Gonzalez and Brooks",1892.15,3465.47
+P0008,Alpine Gear Mountain Bike Elite,Bikes,Mountain Bikes,Alpine Gear,Ryan PLC,1697.01,2996.13
+P0009,Alpine Gear Road Bike Comp,Bikes,Road Bikes,Alpine Gear,George Group,727.94,1582.73
+P0010,Ridgeback Hybrid Bike Sport,Bikes,Hybrid Bikes,Ridgeback,Rodriguez LLC,1220.59,2396.4
+P0011,Ridgeback Kids Bike Comp,Bikes,Kids Bikes,Ridgeback,Allen-Allen,558.4,1146.62
+P0012,Alpine Gear E-Bike Comp,Bikes,E-Bikes,Alpine Gear,"Arroyo, Miller and Tucker",1383.09,2689.44
+P0013,Alpine Gear Glove Comp,Apparel,Gloves,Alpine Gear,Spence PLC,24.41,48.85
+P0014,Northwind Glove Elite,Apparel,Gloves,Northwind,Anderson Group,,138.97
+P0015,PaceLine Short Trail,Apparel,Shorts,PaceLine,"Martin, Rose and Obrien",29.81,82.92
+P0016,Alpine Gear Sock,Apparel,Socks,Alpine Gear,Hickman Ltd,50.01,100.89
+P0017,PaceLine Jersey Comp,Apparel,Jerseys,PaceLine,"Harris, Collins and Carney",60.19,133.08
+P0018,PaceLine Jacket Elite,Apparel,Jackets,PaceLine,"Brooks, Lam and Hayes",27.25,69.15
+P0019,Northwind Glove Classic,Apparel,Gloves,Northwind,Walker LLC,82.91,172.24
+P0020,Northwind Sock Sport,Apparel,Socks,Northwind,Chapman and Sons,35.6,97.29
+P0021,PaceLine Jacket Classic,Apparel,Jackets,PaceLine,"Robinson, Jones and Welch",,97.29
+P0022,PaceLine Short Pro,Apparel,Shorts,PaceLine,Jones Inc,84.09,172.19
+P0023,Alpine Gear Sock Classic,Apparel,Socks,Alpine Gear,Jones-Young,34.51,94.09
+P0024,Northwind Jacket Pro,Apparel,Jackets,Northwind,"Washington, Ryan and Cummings",10.47,21.73
+P0025,Alpine Gear Helmet Comp,Accessories,Helmets,Alpine Gear,"Johnston, Sanchez and Kennedy",105.88,213.64
+P0026,TrailForge Light Elite,Accessories,Lights,TrailForge,Lee-Davis,85.28,174.26
+P0027,Alpine Gear Lock,Accessories,Locks,Alpine Gear,Gomez-Jenkins,121.94,251.02
+P0028,TrailForge Computer Sport,Accessories,Computers,TrailForge,"Brown, Valdez and Lucas",71.27,187.66
+P0029,PaceLine Computer Pro,Accessories,Computers,PaceLine,Powell LLC,47.78,118.4
+P0030,TrailForge Light Comp,Accessories,Lights,TrailForge,Wright and Sons,7.34,24.13
+P0031,TrailForge Light Pro,Accessories,Lights,TrailForge,"West, Henderson and Ramirez",4.33,9.81
+P0032,Northwind Light Pro,Accessories,Lights,Northwind,Baxter Inc,,236.17
+P0033,TrailForge Bottle Comp,Accessories,Bottles,TrailForge,Morton-Chase,31.04,78.18
+P0034,Alpine Gear Light Trail,Accessories,Lights,Alpine Gear,Williams PLC,27.32,69.24
+P0035,Northwind Light Trail,Accessories,Lights,Northwind,Novak and Sons,,32.43
+P0036,Alpine Gear Bag Sport,Accessories,Bags,Alpine Gear,Russell Group,70.15,225.69
+P0037,Northwind Computer,Accessories,Computers,Northwind,Hancock Inc,10.37,23.27
+P0038,TrailForge Helmet Elite,Accessories,Helmets,TrailForge,Gray Group,22.92,56.28
+P0039,TrailForge Bag Pro,Accessories,Bags,TrailForge,House-Glover,27.36,78.19
+P0040,Northwind Bag,Accessories,Bags,Northwind,Henderson-Bernard,10.37,20.75
+P0041,Northwind Helmet Elite,Accessories,Helmets,Northwind,"Stanley, Tucker and Lee",113.41,241.44
+P0042,Alpine Gear Bag Pro,Accessories,Bags,Alpine Gear,Novak PLC,61.15,129.3
+P0043,TrailForge Wheel,Components,Wheels,TrailForge,"Daniels, Adkins and Brown",7.51,16.37
+P0044,TrailForge Drivetrain,Components,Drivetrain,TrailForge,"Woods, Calhoun and Schmidt",154.17,283.61
+P0045,PaceLine Saddle Classic,Components,Saddles,PaceLine,Yu Inc,199.42,471.19
+P0046,Ridgeback Wheel Sport,Components,Wheels,Ridgeback,Jones Inc,184.24,382.78
+P0047,Ridgeback Brake,Components,Brakes,Ridgeback,"Hensley, Powell and David",22.09,46.84
+P0048,Ridgeback Saddle,Components,Saddles,Ridgeback,"Sanchez, Wheeler and Harvey",24.34,51.12
+P0049,Ridgeback Wheel Elite,Components,Wheels,Ridgeback,Sandoval-Cunningham,,392.85
+P0050,Ridgeback Drivetrain Comp,Components,Drivetrain,Ridgeback,Donovan-Harris,297.54,612.91
+P0051,Ridgeback Saddle Comp,Components,Saddles,Ridgeback,"Edwards, Baker and Anderson",189.0,408.31
+P0052,PaceLine Saddle Sport,Components,Saddles,PaceLine,"Evans, Stewart and Walton",94.8,215.89
+P0053,Ridgeback Brake Sport,Components,Brakes,Ridgeback,Smith PLC,77.07,183.67
+P0054,TrailForge Brake Pro,Components,Brakes,TrailForge,"Ferrell, Jones and Lewis",110.64,215.77
+P0055,TrailForge Tire Pro,Components,Tires,TrailForge,Anderson-Bailey,198.35,409.44
+P0056,PaceLine Tire Classic,Components,Tires,PaceLine,Suarez LLC,66.12,150.35
+P0057,Ridgeback Tire,Components,Tires,Ridgeback,Moore-Bass,105.77,249.65
+P0058,PaceLine Saddle,Components,Saddles,PaceLine,"Turner, Riggs and Roman",113.4,207.1
+P0059,Ridgeback Saddle Sport,Components,Saddles,Ridgeback,"Smith, Montoya and Evans",212.16,439.09
+P0060,Ridgeback Tire Sport,Components,Tires,Ridgeback,"Garcia, Humphrey and Baker",97.59,182.94
+P0061,Northwind Gel Sport,Nutrition,Gels,Northwind,Newton and Sons,5.73,10.99
+P0062,Northwind Hydration Mix Comp,Nutrition,Hydration Mix,Northwind,Campbell-Clark,14.09,24.69
+P0063,PaceLine Hydration Mix Pro,Nutrition,Hydration Mix,PaceLine,Harris-Walters,18.15,31.88
+P0064,PaceLine Gel Classic,Nutrition,Gels,PaceLine,Wagner-King,12.01,29.37
+P0065,PaceLine Energy Bar Sport,Nutrition,Energy Bars,PaceLine,Davis Group,3.58,7.33
+P0066,Northwind Hydration Mix Sport,Nutrition,Hydration Mix,Northwind,Williams-Cook,3.35,5.69
+P0067,Northwind Energy Bar Elite,Nutrition,Energy Bars,Northwind,Walsh LLC,15.26,29.54
+P0068,Northwind Hydration Mix,Nutrition,Hydration Mix,Northwind,Figueroa PLC,1.6,3.38
+P0069,PaceLine Energy Bar Pro,Nutrition,Energy Bars,PaceLine,"Patterson, Smith and Jones",4.02,8.93
+P0070,PaceLine Hydration Mix Elite,Nutrition,Hydration Mix,PaceLine,"Mckee, Gardner and Davenport",18.77,34.14
+P0071,Northwind Energy Bar Sport,Nutrition,Energy Bars,Northwind,"Tran, Jordan and Williams",12.59,31.09
+P0072,PaceLine Hydration Mix,Nutrition,Hydration Mix,PaceLine,Nolan-Flynn,16.31,28.47

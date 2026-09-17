@@ -1,0 +1,10 @@
+promo_code,description,discount_pct,start_date,end_date
+SPRING24,Spring Tune-Up Sale,10,2024-03-01,2024-04-15
+SUMMER24,Summer Riding Season,15,2024-06-01,2024-07-15
+BF2024,Black Friday 2024,25,2024-11-29,2024-12-02
+HOLIDAY24,Holiday Gift Guide,12,2024-12-10,2024-12-24
+SPRING25,Spring Tune-Up Sale,10,2025-03-01,2025-04-15
+SUMMER25,Summer Riding Season,15,2025-06-01,2025-07-15
+BF2025,Black Friday 2025,25,2025-11-28,2025-12-01
+HOLIDAY25,Holiday Gift Guide,12,2025-12-10,2025-12-24
+SPRING26,Spring Tune-Up Sale,10,2026-03-01,2026-04-15

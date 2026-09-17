@@ -1,0 +1,8 @@
+store_id,store_name,store_type,address,city,state,region,open_date
+S01,Northwind Cycles - Denver,Physical,455 16th St,Denver,CO,West,2015-03-01
+S02,Northwind Cycles - Austin,Physical,1201 S Congress Ave,Austin,TX,South,2016-06-15
+S03,Northwind Cycles - Portland,Physical,820 SW Alder St,Portland,OR,West,2017-01-10
+S04,Northwind Cycles - Chicago,Physical,233 N Michigan Ave,Chicago,IL,Midwest,2018-09-20
+S05,Northwind Cycles - Raleigh,Physical,4325 Glenwood Ave,Raleigh,NC,South,2019-04-05
+S06,Northwind Cycles - Boston,Physical,99 Boylston St,Boston,MA,Northeast,2021-05-11
+S07,Northwind Online,Online,,,,National,2014-11-01

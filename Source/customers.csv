@@ -1,0 +1,227 @@
+customer_id,first_name,last_name,email,phone,address,city,state,zip_code,country,signup_date,customer_segment
+C00001,Michelle,Nolan,michelle.nolan228@hotmail.com,415.886.9232,56342 Patrick Camp,Walkermouth,IL,46331,USA,2023-11-15,Retail
+C00002,Laura,Perez,laura.perez676@hotmail.com,765.241.4586,2940 Candace Key,Samuelhaven,AK,15658,USA,2024-03-11,Wholesale
+C00003,Barbara,Scott,barbara.scott657@yahoo.com,7883356159,465 Terry Plaza Apt. 366,New Ashley,VT,53726,USA,2024-11-03,Retail
+C00004,Aaron,Mitchell,aaron.mitchell119@hotmail.com,+1-757-377-3872x148,433 Andrew Gardens,Carrland,NE,60193,USA,2024-04-23,Retail
+C00005,Crystal,Lee,crystal.lee611@yahoo.com,563.320.1632x8708,78895 Salazar Stravenue Suite 872,Colebury,UT,84080,USA,2023-10-05,VIP
+C00006,Kimberly,Washington,kimberly.washington119@yahoo.com,814.434.5581x223,66587 Brown Village,Priceshire,IA,91664,USA,2022-09-24,Wholesale
+C00007,Nicole,Johnston,nicole.johnston533@gmail.com,(946)268-8937x346,6272 Rebecca Ramp Apt. 162,Whiteview,NJ,50190,USA,2023-12-17,Wholesale
+C00008,Shawn,Rogers,shawn.rogers202@yahoo.com,,4170 Zoe Keys Apt. 100,East Mary,FM,81940,USA,2023-04-06,Retail
+C00009,David,Caldwell,david.caldwell680@gmail.com,645.829.9124x190,319 Curtis Trail Suite 919,West Amandastad,OK,09539,USA,2024-09-03,Retail
+C00010,Matthew,Atkinson,matthew.atkinson335@yahoo.com,965-972-6284,945 Mariah Corners Suite 737,Rogersfort,GU,43101,USA,2023-05-19,Retail
+C00011,Jason,Salinas,jason.salinas389@yahoo.com,+1-948-908-3136x783,14363 Beck Land Suite 885,Barajasside,MA,43858,USA,2024-01-22,Retail
+C00012,Shawn,Parker,,001-635-318-2337x4989,3524 Jean Crossroad,Brandonton,IN,73030,USA,2023-10-27,VIP
+C00013,Sherry,Little,sherry.little330@yahoo.com,209-647-7752,16719 Edward Valleys Suite 131,Obrienbury,WV,68995,USA,2024-03-04,Retail
+C00014,Rebekah,Evans,rebekah.evans983@yahoo.com,399-409-1334x1232,7974 Jesse Squares,Jacquelinemouth,OR,09830,USA,2025-05-26,Retail
+C00015,Sandra,French,sandra.french635@hotmail.com,+1-636-918-3242x10249,4648 Kim Rapid,South Jessicaview,SC,03891,USA,2023-01-07,Wholesale
+C00016,Suzanne,Huff,suzanne.huff826@hotmail.com,,490 Thomas Run,Moonburgh,OK,77221,USA,2024-05-24,Retail
+C00017,Lisa,Costa,lisa.costa787@yahoo.com,(755)612-5674x68071,68087 Brown Path Suite 977,East Josephberg,NJ,38253,USA,2024-05-27,Retail
+C00018,Helen,Martinez,helen.martinez394@hotmail.com,324.980.8613,274 Perry Orchard,Sanchezside,SC,19459,USA,2024-03-09,Retail
+C00019,Sandra,Romero,sandra.romero882@gmail.com,946-458-4044,755 Gibson Islands Apt. 396,Port Kimberly,FM,06221,USA,2023-12-04,Retail
+C00020,Thomas,Mcintyre,thomas.mcintyre713@yahoo.com,,0289 Kane Well,Garciamouth,MS,02512,USA,2025-07-16,Retail
+C00021,Robert,Pena,robert.pena821@gmail.com,345.596.1586x5780,16117 Heather Burgs Apt. 504,Nicholasberg,FL,32508,USA,2024-10-10,Retail
+C00022,Ashlee,Sparks,ashlee.sparks913@gmail.com,996-693-7923,0748 Charles Key Suite 647,Jamesfurt,GA,63836,USA,2023-01-29,Retail
+C00023,Patrick,Howard,patrick.howard562@hotmail.com,506-540-9097x4395,210 Kramer Bypass Suite 214,Julieburgh,LA,26819,USA,2023-03-07,Retail
+C00024,Amber,Mata,amber.mata254@hotmail.com,724-374-5171x236,48175 Richards View Suite 137,New Nicoleside,NC,43493,USA,2026-04-24,Retail
+C00025,Jeffrey,Brown,jeffrey.brown282@yahoo.com,001-446-812-0047x113,8692 Pena Village Suite 964,Lake Mitchellmouth,GU,58788,USA,2026-06-14,Retail
+C00026,Melissa,Garcia,melissa.garcia554@yahoo.com,+1-550-264-3171,3293 Maria Plaza,New Jason,TX,31040,USA,2023-12-19,Retail
+C00027,Dylan,Lester,dylan.lester66@yahoo.com,(728)542-1020,24026 Julie Mountains Suite 589,South Williamton,AL,95822,USA,2025-10-13,Retail
+C00028,Michelle,Boyd,michelle.boyd431@hotmail.com,3077661771,24998 James Ranch,Shawnchester,NH,13500,USA,2025-10-27,Retail
+C00029,Danny,Pena,danny.pena784@hotmail.com,001-736-673-6576x6156,71111 Davis Streets Suite 280,Elizabethchester,FM,46847,USA,2026-02-22,Retail
+C00030,Shelley,Henderson,shelley.henderson874@hotmail.com,4499451983,58514 Lindsay Vista,New Sarahview,PW,04295,USA,2023-05-17,Wholesale
+C00031,Jacqueline,Parker,jacqueline.parker618@yahoo.com,5228961201,5254 Frank Port Apt. 022,Lake Christophermouth,MA,87262,USA,2024-05-07,Retail
+C00032,Catherine,Perry,catherine.perry345@hotmail.com,256-514-9784,003 Dougherty Trafficway Apt. 445,North Tylerchester,Illinois,23529,USA,2023-03-03,Retail
+C00033,Amanda,Hall,amanda.hall638@hotmail.com,(816)806-0715x969,60529 Collier Lake Apt. 613,Chapmanhaven,OH,10809,USA,2024-03-26,Wholesale
+C00034,Kyle,Morgan,kyle.morgan659@gmail.com,581-388-3552,3292 Gregory Trail,Marshallshire,MA,76453,USA,2024-06-12,Retail
+C00035,Sandra,Cunningham,sandra.cunningham217@hotmail.com,652-971-7744x90581,05411 Ford Plaza Apt. 793,Cassidyhaven,SC,20274,USA,2026-06-25,Retail
+C00036,Shannon,Shepherd,shannon.shepherd852@yahoo.com,001-718-720-3778x892,6590 Jones Court Suite 449,West Christopher,MP,87481,USA,2023-03-21,Wholesale
+C00037,Michael,Ponce,michael.ponce975@hotmail.com,(729)214-8652x8168,2357 Jeremy Dam Apt. 141,Lake Matthewberg,UT,78783,USA,2024-02-28,Wholesale
+C00038,Francis,Guerra,francis.guerra32@hotmail.com,(970)565-3794,7359 Murray Haven,Shawchester,WI,21742,USA,2025-12-01,Retail
+C00039,Laurie,Taylor,laurie.taylor485@gmail.com,+1-475-881-8141x2478,75060 Shaw Freeway,Vangstad,KS,29931,USA,2022-10-07,Wholesale
+C00040,Sarah,Combs,sarah.combs378@yahoo.com,(220)347-2779,3289 Rodriguez Heights,West David,SD,31753,USA,2024-04-30,Retail
+C00041,Laura,Bryant,laura.bryant168@yahoo.com,+1-580-889-3246x095,185 Stephanie Plains,South Morganton,DE,83819,USA,2024-03-13,Retail
+C00042,Nathaniel,Burgess,nathaniel.burgess930@gmail.com,(931)495-2058x527,70430 Nina Island,Zacharyside,MI,62550,USA,2023-08-31,Retail
+C00043,Karen,Lee,karen.lee851@gmail.com,+1-754-615-6676x5277,616 Amy Islands,North Markport,MI,40674,USA,2024-06-08,Wholesale
+C00044,Jennifer,Jackson,jennifer.jackson124@yahoo.com,205.496.4016x582,21355 Herring Bypass Apt. 755,Hinesshire,NV,18548,USA,2024-10-08,Retail
+C00045,Raymond,Banks,raymond.banks380@gmail.com,9275868144,731 Melissa Mission Apt. 715,Jennaside,IA,71564,US,2023-10-24,Retail
+C00046,Kevin,Moore,kevin.moore109@hotmail.com,+1-725-983-1323x7058,114 Key Stravenue,Foxchester,VT,75854,USA,2022-12-12,Retail
+C00047,Teresa,Day,teresa.day446@yahoo.com,+1-685-428-9226x80182,3584 John Roads,Davidport,NV,81035,USA,2024-10-13,VIP
+C00048,Wayne,Jackson,wayne.jackson552@gmail.com,(699)559-0010,078 May Hollow Suite 364,Joneston,OR,21220,USA,2024-05-29,VIP
+C00049,Todd,Harris,todd.harris873@gmail.com,955-562-5881x53714,04696 Sydney Estate,Sarahmouth,PA,25382,USA,2025-09-14,Retail
+C00050,Tyrone,Robertson,tyrone.robertson476@yahoo.com,901.968.7339x5004,016 Nicole Stream Suite 650,Williamsside,NM,26014,USA,2024-02-07,Retail
+C00051,Keith,Hughes,keith.hughes187@hotmail.com,599-812-1655x852,02578 Hernandez Passage,West Sarah,NV,42251,USA,2023-04-21,Retail
+C00052,Vicki,Stevenson,vicki.stevenson719@hotmail.com,688-287-9470x55169,9930 Jackson Roads Suite 230,East Andrewmouth,ME,55391,USA,2023-04-05,Retail
+C00053,Hannah,Jenkins,hannah.jenkins738@hotmail.com,702.783.8578x6527,733 Grant Fork Suite 437,Timothyside,WI,95090,USA,2023-09-30,Retail
+C00054,David,Rhodes,david.rhodes503@yahoo.com,,40415 Douglas Summit Suite 338,Sarahview,MS,18493,USA,2023-02-02,Retail
+C00055,Joyce,Allen,joyce.allen314@hotmail.com,933.901.6571x20826,5401 Amanda Stream,East Robertburgh,AR,05264,USA,2026-08-21,Retail
+C00056,Randy,Simpson,randy.simpson764@yahoo.com,9044991547,3152 Wong Stravenue Apt. 054,East Cheryl,WA,84220,USA,2026-03-28,Retail
+C00057,Margaret,Robertson,margaret.robertson124@yahoo.com,+1-612-227-5304x63745,530 Steven Estate Suite 841,Michaelbury,CO,29222,USA,2026-06-24,Wholesale
+C00058,Timothy,Gibson,timothy.gibson197@yahoo.com,(387)283-3918x78519,822 Bond Mills,Lake Jamieshire,PA,64572,USA,2023-01-06,Wholesale
+C00059,William,Stokes,william.stokes290@gmail.com,367.290.8740x64039,1801 Johnson Lodge Apt. 265,Westfurt,NH,49737,USA,2022-12-22,Retail
+C00060,Tamara,Baxter,tamara.baxter15@hotmail.com,(812)886-8230x047,75243 Antonio Shore,Mendeztown,DC,32045,USA,2023-06-23,Retail
+C00061,Craig,Johnson,craig.johnson715@hotmail.com,001-603-506-7383x028,953 Walter Shore Apt. 644,New Stacyburgh,PA,82551,USA,2025-05-13,Retail
+C00062,Angela,Williams,angela.williams588@hotmail.com,+1-668-456-6246x28733,86688 Paul Glens Apt. 517,Christopherborough,MI,07256,USA,2023-09-22,Retail
+C00063,Emily,Morrison,emily.morrison883@gmail.com,598.537.3540,739 Randy Garden,Kimberlyfurt,VI,61613,USA,2024-10-14,Retail
+C00064,Michael,Green,michael.green703@yahoo.com,217.653.5560x932,2353 Hudson Gardens Suite 854,Levyfort,NY,60902,USA,2023-04-29,Retail
+C00065,Laura,Jackson,laura.jackson255@hotmail.com,428.208.0100x6231,750 Hopkins Brook,New Andreatown,VA,02693,USA,2024-10-07,VIP
+C00066,Joshua,Madden,joshua.madden536@hotmail.com,001-762-611-8233x984,56793 Kevin Views Apt. 016,Bennettfort,AK,07856,USA,2025-03-13,VIP
+C00067,Jacqueline,Miller,jacqueline.miller313@yahoo.com,,180 Jason Ways Suite 401,Rachelshire,PR,86760,USA,2022-10-14,Retail
+C00068,Sarah,Edwards,sarah.edwards213@hotmail.com,(761)842-9396,185 Connor Fort,West Cassiefurt,IL,43279,USA,2022-10-09,Retail
+C00069,Joshua,Riddle,joshua.riddle77@gmail.com,(386)662-9619x431,2655 Christopher Inlet,Wardview,NM,13900,USA,2023-03-08,Retail
+C00070,Jacob,Cole,jacob.cole238@hotmail.com,(810)315-8199x56046,826 Dominic Hollow,Trevorland,OH,22417,USA,2024-05-22,Retail
+C00071,Robert,Washington,robert.washington947@yahoo.com,737-899-3712x406,5692 Flores Square Apt. 752,Novakport,CA,96822,USA,2025-06-06,Retail
+C00072,Travis,Johnston,travis.johnston558@yahoo.com,(546)951-9398x2807,167 Cynthia Garden Suite 266,South Vickifort,IA,76816,USA,2024-04-03,Retail
+C00073,William,Knapp,william.knapp170@yahoo.com,+1-405-289-1135,6101 Walker Summit Apt. 756,Bartonshire,UT,90997,USA,2024-08-26,Retail
+C00074,Michael,Johnson,michael.johnson480@yahoo.com,(911)925-4573x87571,40105 Erica Expressway Apt. 828,West Anita,CT,61063,USA,2023-07-31,Retail
+C00075,Richard,Lopez,richard.lopez449@hotmail.com,,0937 Price Squares Apt. 341,Port Monicaburgh,SC,48446,USA,2023-12-15,Retail
+C00076,Stephen,Baker,stephen.baker27@yahoo.com,359.469.6915x57924,34125 William Manor Apt. 966,South Cynthia,VI,91390,USA,2026-04-29,VIP
+C00077,Sarah,Thompson,sarah.thompson22@yahoo.com,922-857-9050x7236,7721 Laura Forges Suite 043,Garymouth,GA,74641,USA,2025-08-15,Retail
+C00078,Katie,Dunn,katie.dunn180@hotmail.com,848-358-0783,0745 Scott Crest,East Lisa,DE,77561,USA,2025-05-29,Retail
+C00079,Michelle,Bishop,michelle.bishop447@gmail.com,+1-723-630-9584x982,481 Sydney Turnpike Suite 042,East Dustin,NE,42718,USA,2025-12-18,Retail
+C00080,Kathleen,Lowe,kathleen.lowe329@gmail.com,001-646-767-1168,5901 Reid Square Suite 186,South Mallory,NM,65344,USA,2023-09-23,Wholesale
+C00081,Maria,Morgan,maria.morgan679@gmail.com,001-475-900-1701,63242 Davis Lake Suite 152,South Conniebury,OK,56761,USA,2025-04-10,Retail
+C00082,Jane,Smith,jane.smith259@gmail.com,(893)487-0051,36111 Richardson Hills Apt. 622,New Annaburgh,NJ,58185,USA,2024-01-21,Retail
+C00083,Jason,Goodman,jason.goodman2@yahoo.com,+1-473-511-2196x565,138 Maxwell Spurs Apt. 438,Lake Peter,PW,85195,USA,2022-11-14,Retail
+C00084,Rachael,Blevins,rachael.blevins638@yahoo.com,437-891-8055,8271 Brenda Bridge Suite 300,Hunterhaven,NM,54952,USA,2024-05-06,Retail
+C00085,Richard,Davidson,richard.davidson135@hotmail.com,(741)841-8328,6303 Sandy Crescent,Salazarton,ND,41040,USA,2025-04-25,Retail
+C00086,Diane,Thompson,diane.thompson646@hotmail.com,(702)475-8842,105 Nelson Circles Suite 917,Dixonton,AL,65985,USA,2026-02-01,VIP
+C00087,Garrett,Moore,garrett.moore418@gmail.com,001-913-780-0030,20863 Wright Stravenue Suite 419,Davidton,WI,24008,USA,2023-07-18,Retail
+C00088,Zachary,Williams,zachary.williams664@gmail.com,644.551.8705x349,9738 Edward Lodge Apt. 385,West Aaronfurt,MO,97242,USA,2025-07-23,Retail
+C00089,Dalton,Moreno,dalton.moreno426@yahoo.com,302.441.0386x5719,99062 Kelly Vista Suite 655,Nelsonland,IA,27070,USA,2023-03-13,VIP
+C00090,Kayla,Rodriguez,kayla.rodriguez196@gmail.com,375.361.8537x474,490 Mary Islands,North Jennifer,CT,47128,USA,2024-03-27,Retail
+C00091,Brandon,Evans,brandon.evans809@gmail.com,4673883171,32365 Brandi Green,North Wendyborough,GU,85171,USA,2024-06-04,Retail
+C00092,David,Stein,david.stein290@yahoo.com,207-802-9667,53244 Stephenson Bypass Apt. 476,Brownview,MP,50703,USA,2023-03-15,Wholesale
+C00093,James,Wilkerson,james.wilkerson153@gmail.com,+1-680-465-7875x9856,9304 Lindsey Mountains,Katiebury,NC,21423,USA,2023-01-20,Wholesale
+C00094,Diane,Adams,diane.adams467@hotmail.com,7397652239,599 Anna Field,Weaverburgh,GU,64783,USA,2022-10-21,Retail
+C00095,Brian,Guzman,brian.guzman240@hotmail.com,405.393.2525x0029,56915 Morris Estate Suite 752,Jeffreyshire,AK,23484,USA,2024-03-01,Retail
+C00096,Jessica,Phillips,jessica.phillips831@hotmail.com,5963902959,51355 Daisy Corners Suite 704,East Heather,HI,46439,USA,2023-09-05,Wholesale
+C00097,Daniel,Smith,daniel.smith508@yahoo.com,001-462-967-6586x1793,40541 Matthew Lane,Lake Charles,MS,12704,USA,2024-01-02,Retail
+C00098,Tricia,Barry,tricia.barry896@gmail.com,,296 Brian Isle Apt. 368,Donnaport,VT,31636,USA,2023-01-14,Retail
+C00099,Philip,Dunn,philip.dunn420@gmail.com,3502614973,41714 Ruiz Shore,Christopherside,NM,51294,USA,2023-05-23,Retail
+C00100,Nicole,Wood,nicole.wood710@gmail.com,,7434 Edward Square Apt. 158,Arellanoshire,NV,30321,USA,2024-11-12,Wholesale
+C00101,Mary,Cardenas,mary.cardenas390@hotmail.com,+1-479-337-4160x89899,23320 Miller Springs Suite 329,Luisland,MT,11907,USA,2024-03-15,Retail
+C00102,Ray,Nguyen,ray.nguyen37@hotmail.com,309.398.6162x299,8564 Pena Ports,Johnsonview,KY,53319,USA,2023-03-25,Retail
+C00103,Charlotte,Steele,charlotte.steele765@yahoo.com,430-674-5054x44713,4691 Scott View Suite 785,New Laceyland,AZ,41280,USA,2025-06-27,Wholesale
+C00104,Richard,Deleon,richard.deleon455@hotmail.com,7235303070,7861 John Overpass Suite 279,Maxview,NC,98668,USA,2025-12-22,Retail
+C00105,Christopher,Johnson,christopher.johnson301@gmail.com,001-233-933-4680,290 Johnny Valley,Jenniferview,AR,56050,USA,2026-03-26,Retail
+C00106,Melissa,Stevens,melissa.stevens812@yahoo.com,689-369-1085x8994,54544 Lopez Path Apt. 096,Erintown,IL,86405,USA,2024-08-22,Retail
+C00107,Kenneth,Meadows,kenneth.meadows247@yahoo.com,001-409-693-5387x5842,2482 Pena Forges,Jeffreyport,MO,55613,USA,2025-10-20,Wholesale
+C00108,Mark,Green,mark.green262@yahoo.com,370-899-9173,0223 Ortiz Port Suite 252,South Marvinburgh,LA,41580,USA,2025-03-10,Retail
+C00109,Adam,Hill,adam.hill162@gmail.com,001-827-912-9666,08350 Sherman Pines Apt. 003,Lake Natalie,WV,41407,USA,2023-03-03,Retail
+C00110,Patrick,Chapman,patrick.chapman435@gmail.com,4447789856,3260 Jeffrey Curve Apt. 098,North Michael,GA,85768,USA,2025-10-26,Retail
+C00111,Nicholas,Bowman,nicholas.bowman110@hotmail.com,+1-609-901-0016x761,04618 Dean Squares,South Maria,WI,14252,USA,2024-09-11,Wholesale
+C00112,Christine,Campbell,christine.campbell850@gmail.com,939.534.8356x4208,3001 Mary Skyway Suite 218,Lake Jenniferview,WY,84955,USA,2023-07-30,Wholesale
+C00113,Vanessa,Phillips,,220-245-5611,255 Friedman Grove,West Lisaburgh,NH,15421,USA,2024-04-03,Retail
+C00114,Suzanne,Nelson,suzanne.nelson236@hotmail.com,462.812.0216x9797,027 Rodriguez Loop Suite 014,Alexanderhaven,MS,97969,USA,2024-12-15,VIP
+C00115,Annette,Levine,annette.levine774@yahoo.com,489.916.3756x28900,17535 Williams Fork Suite 631,Wallaceshire,TN,59234,USA,2023-01-02,Wholesale
+C00116,Vernon,Stewart,vernon.stewart643@hotmail.com,+1-501-966-0880x1994,0375 Moran Lakes Suite 113,West Michaelport,NM,72287,USA,2024-09-27,VIP
+C00117,Jacqueline,Williams,jacqueline.williams135@yahoo.com,(561)949-3316,516 Sara Villages,Port Patriciamouth,GA,86806,USA,2025-01-03,Retail
+C00118,William,Maynard,william.maynard806@hotmail.com,001-708-869-7829x2216,346 Waller Mission Apt. 269,Meganside,AL,41645,USA,2025-07-01,Retail
+C00119,Selena,Chen,selena.chen264@gmail.com,+1-845-622-8851x587,81062 Ellen Flats Suite 244,Port Bryan,ID,39185,USA,2023-06-20,Retail
+C00120,Amber,Howard,amber.howard347@gmail.com,+1-783-286-3840x666,439 Greer Roads,Kariside,NV,97291,USA,2025-01-23,Wholesale
+C00121,Kimberly,Brandt,kimberly.brandt881@yahoo.com,(612)628-1606,94057 Bill Islands,Port Sarahport,LA,64798,USA,2025-10-23,VIP
+C00122,Andrea,Jones,andrea.jones810@yahoo.com,532.781.8268x86153,4398 Barajas View Apt. 157,Lake Christina,VT,81913,USA,2023-08-17,Retail
+C00123,Bill,Blackwell,bill.blackwell689@gmail.com,(548)740-8588x7704,28801 Ellen Trail,Port Gina,MS,14122,USA,2023-06-23,Retail
+C00124,Maria,Johns,maria.johns240@yahoo.com,+1-312-507-5011x0248,6766 Smith Spring Apt. 809,Port Julieton,WA,92367,USA,2026-01-16,Retail
+C00125,Michael,Shaw,michael.shaw227@hotmail.com,891-647-6607x2832,5088 David Avenue,Medinaland,LA,40437,USA,2023-06-29,Wholesale
+C00126,Judith,Swanson,judith.swanson419@yahoo.com,,23943 Howard Union,Port Karenside,IL,60959,USA,2025-03-25,Retail
+C00127,Charles,Powers,charles.powers241@gmail.com,397.555.2314,7594 Ariana Lakes Suite 620,Johnbury,KS,93850,USA,2025-08-11,Wholesale
+C00128,Ryan,Larsen,ryan.larsen714@hotmail.com,001-657-477-5478x1291,1108 Lisa Prairie,Hammondborough,DC,05305,USA,2024-11-09,Retail
+C00129,Amy,Lutz,amy.lutz671@hotmail.com,001-225-563-9427x88165,272 Ashley Port,Lake Jessica,NJ,47529,USA,2022-10-25,Retail
+C00130,Kathleen,Hall,kathleen.hall380@yahoo.com,203.785.6770,844 Nicholas Lane,Brianaland,KS,68221,USA,2023-08-29,Retail
+C00131,Teresa,Walker,teresa.walker703@yahoo.com,(677)590-8272x318,25913 Shepherd Stravenue,South Emmafort,MO,28118,USA,2025-01-05,Retail
+C00132,Deborah,Jenkins,deborah.jenkins195@gmail.com,(299)422-8092,86990 Valentine Forge Suite 977,East Maria,IA,79254,USA,2023-03-23,Retail
+C00133,Brandi,Saunders,brandi.saunders658@hotmail.com,542.857.9913x66210,127 Natalie Place,North Timothyberg,RI,79599,USA,2024-10-22,Retail
+C00134,Aaron,Pace,aaron.pace129@hotmail.com,(886)450-8637x65991,3149 Scott Avenue Apt. 981,South Diamondmouth,TX,54089,USA,2024-02-06,VIP
+C00135,Eric,Pearson,eric.pearson222@yahoo.com,+1-969-459-4636,874 Lane Trail Suite 213,Loganburgh,KS,13644,USA,2023-07-06,VIP
+C00136,Richard,Morgan,richard.morgan880@hotmail.com,001-602-560-1279x611,90669 Dawson Ranch Apt. 277,East Melissahaven,OH,37988,USA,2023-06-07,Retail
+C00137,Kristen,Dixon,,,053 Theresa Corners,Kimberlystad,UT,88274,USA,2024-03-25,Retail
+C00138,Brenda,Holmes,brenda.holmes17@hotmail.com,,84895 Richmond Harbor,New Sylvia,WA,60107,USA,2026-05-15,Retail
+C00139,Bailey,Green,bailey.green66@hotmail.com,681-984-5184,735 Maldonado Radial Apt. 714,South Cynthiabury,MT,89225,USA,2025-06-15,Retail
+C00140,Lauren,Gutierrez,lauren.gutierrez227@hotmail.com,,434 Raymond Summit,Charlesburgh,MI,62964,USA,2023-11-28,Wholesale
+C00141,Jeffery,Berry,jeffery.berry470@hotmail.com,,3334 Jermaine Village,Port Christine,HI,20947,USA,2025-10-07,Retail
+C00142,David,Miller,david.miller111@yahoo.com,+1-408-607-5957x947,92086 Ayers Bypass Suite 627,Lake Aprilmouth,TN,90837,USA,2022-09-08,Retail
+C00143,Emily,Gray,emily.gray152@yahoo.com,(494)928-4347x955,65564 White Curve Apt. 143,Chaseborough,CT,19617,USA,2025-11-07,VIP
+C00144,Joanna,Kennedy,joanna.kennedy391@gmail.com,(472)288-5744x89061,7175 Ward Points,Mauricechester,AL,16391,USA,2024-01-21,VIP
+C00145,Erin,Jacobs,erin.jacobs813@hotmail.com,+1-982-445-5877x1694,569 Sweeney Cliffs,East Matthewmouth,OK,42034,USA,2025-04-06,Wholesale
+C00146,Jennifer,Jacobs,jennifer.jacobs887@yahoo.com,359.587.6220x234,1117 Anthony Locks,North Joseberg,MO,11551,USA,2025-04-09,Retail
+C00147,Nicole,Parker,nicole.parker409@hotmail.com,,2282 Austin Knolls Suite 778,Amyberg,IA,91939,USA,2024-10-22,Wholesale
+C00148,Brittany,Bryant,brittany.bryant977@hotmail.com,001-368-984-5783,6424 Aaron Via Apt. 547,Lake Sandrafort,WA,39771,USA,2022-09-09,Retail
+C00149,Russell,Carter,russell.carter99@gmail.com,+1-853-868-6632,1638 Mitchell Summit,Robertland,IN,24409,USA,2023-03-14,Retail
+C00150,Daniel,Gibson,daniel.gibson576@yahoo.com,001-697-635-0208x021,703 Edward Park,West Robert,NV,65826,USA,2026-08-23,Wholesale
+C00151,Steven,Moody,steven.moody434@gmail.com,001-520-846-1872x34601,03718 Thomas Springs Suite 520,West Timothyport,MA,26548,USA,2024-02-04,VIP
+C00152,Brett,Estrada,brett.estrada107@gmail.com,+1-965-402-4916x3009,32719 Galvan Trace Apt. 052,East Tonymouth,DE,73685,USA,2025-10-21,Retail
+C00153,Katherine,Trujillo,katherine.trujillo359@hotmail.com,606.952.4077,285 Oconnor Harbor,North Amanda,NV,59402,USA,2023-11-01,VIP
+C00154,Jose,Richardson,jose.richardson440@hotmail.com,962.409.5935x18638,6511 Bradley Curve Apt. 031,Leeton,AL,75344,USA,2025-03-20,VIP
+C00155,Paul,Burns,,001-940-353-9103,058 Short Underpass Apt. 948,Lake Chadport,RI,10716,USA,2026-06-06,Retail
+C00156,Susan,Davis,susan.davis280@gmail.com,+1-863-338-3928,761 Laura Plaza Suite 852,Mahoneymouth,VA,72601,USA,2026-08-13,Retail
+C00157,Mark,Watson,mark.watson147@hotmail.com,(259)239-8368x45776,082 Smith Forges Apt. 504,North Benjamin,WV,47117,USA,2023-04-11,Wholesale
+C00158,Joseph,Preston,joseph.preston94@gmail.com,341-696-9315x727,961 Sandra Isle,Nicholechester,IA,55095,USA,2026-05-16,Retail
+C00159,David,Townsend,david.townsend320@hotmail.com,+1-506-404-8058x925,679 Jeffrey Highway,Hernandezmouth,WA,11320,USA,2024-07-21,Retail
+C00160,Julie,Kelley,julie.kelley160@gmail.com,(586)522-7837x6938,6591 Emily Manors,Michaelmouth,KS,45658,USA,2025-01-10,Retail
+C00161,Andrew,Torres,andrew.torres435@hotmail.com,592.470.3352x110,51477 Martin Streets Apt. 388,Anaberg,MI,91605,USA,2025-06-12,Wholesale
+C00162,Andrew,Aguilar,andrew.aguilar354@hotmail.com,9422043940,4510 Dillon Run,Hallfurt,TN,67156,USA,2026-07-22,Retail
+C00163,Cory,Stewart,,+1-512-638-7800,6205 Kelly Hollow Apt. 840,Natashatown,VI,73238,USA,2026-06-12,Retail
+C00164,Jeremiah,Peterson,jeremiah.peterson969@hotmail.com,(416)889-3639,578 Jamie Dam Apt. 248,South Wendy,MO,19526,USA,2025-04-11,Retail
+C00165,Annette,Moore,annette.moore510@hotmail.com,+1-612-952-0566,31220 Obrien Ridge Apt. 933,West Christopherfort,CA,18076,USA,2024-08-29,Wholesale
+C00166,Cassandra,Joseph,cassandra.joseph573@gmail.com,(577)522-3306x0463,79757 Ronald Trail,New Jillfurt,MN,94899,USA,2023-11-26,Wholesale
+C00167,Cheryl,Newton,cheryl.newton20@hotmail.com,,177 Natalie Gardens,Terrellton,PA,73599,USA,2024-03-14,Retail
+C00168,Kathy,Estes,kathy.estes727@yahoo.com,964.947.2649x082,812 Phillip Islands,Johnsonmouth,ID,77874,USA,2026-03-28,Retail
+C00169,Paula,Khan,paula.khan971@yahoo.com,821-211-7518x68926,9222 Kayla Center,Parkermouth,CO,38352,USA,2025-02-26,Retail
+C00170,David,Anderson,david.anderson109@gmail.com,+1-940-977-7809x733,1990 Nicole Harbors Apt. 022,Lake Michaelberg,ID,04751,USA,2025-04-26,Retail
+C00171,Mary,Evans,mary.evans764@gmail.com,4169224999,14556 Katherine Ville Apt. 472,Lake Michelemouth,PW,69582,USA,2024-04-22,Retail
+C00172,Jason,Clark,jason.clark544@gmail.com,001-681-779-4695,978 Vasquez Falls,Lake Kelly,AR,25870,USA,2022-08-29,Wholesale
+C00173,Andrew,Garrett,andrew.garrett661@hotmail.com,296.560.5583,1448 Wang Crescent Suite 569,Port Gregorymouth,DE,44795,USA,2026-05-04,Retail
+C00174,Timothy,Wells,timothy.wells157@hotmail.com,(672)778-5760,95512 Pittman Junction,Simsburgh,AZ,75340,USA,2025-01-27,Wholesale
+C00175,Jacob,Wilson,jacob.wilson476@yahoo.com,001-650-446-1735x743,0317 Lauren Parkway,East Matthew,WY,63870,USA,2025-07-31,VIP
+C00176,Alexandra,Rowe,alexandra.rowe640@gmail.com,923.207.6810x40915,409 Fowler Fords,Jamesport,FL,36762,USA,2024-10-12,Retail
+C00177,Kendra,Lambert,kendra.lambert453@gmail.com,(741)709-8813,49321 Austin Junction Suite 020,Bergerton,KY,14385,USA,2024-03-09,Retail
+C00178,Christopher,Myers,christopher.myers318@hotmail.com,,545 Jennifer Skyway Apt. 792,Port Leahmouth,VT,13249,USA,2024-06-22,Retail
+C00179,Gabrielle,Mckinney,gabrielle.mckinney885@yahoo.com,,29456 Holly Shores,Kristinamouth,NH,59913,USA,2024-08-07,Retail
+C00180,Cameron,Rodriguez,cameron.rodriguez568@yahoo.com,(345)799-2816,8769 Allen Gardens,South Patrick,NJ,45159,USA,2023-06-27,VIP
+C00181,Heather,Reynolds,heather.reynolds330@hotmail.com,983-421-9719x97581,1919 Murphy Rue Apt. 132,Port Dwayneberg,NE,59873,USA,2024-10-10,Retail
+C00182,Peter,Lane,peter.lane921@gmail.com,+1-654-294-6519x09862,008 Rodriguez Haven Apt. 369,Garrettfurt,ID,53720,USA,2024-03-06,Wholesale
+C00183,Amy,Bates,amy.bates254@gmail.com,286.356.2422,76212 Dalton Turnpike,Hansonmouth,NJ,67271,USA,2024-05-07,VIP
+C00184,Lori,Cruz,lori.cruz382@gmail.com,(990)797-3846x89500,712 Marshall Common,East Thomasland,IN,90163,USA,2025-03-09,Wholesale
+C00185,Lauren,Edwards,lauren.edwards809@yahoo.com,+1-707-678-7956,09494 Crystal Prairie Apt. 904,West Toddberg,AR,66770,USA,2022-12-17,VIP
+C00186,Kristen,King,kristen.king291@yahoo.com,540-919-2927x524,051 Caitlin View,Port Tyler,RI,54626,USA,2025-09-24,VIP
+C00187,John,Alexander,john.alexander342@gmail.com,895.904.1027,8366 Baker Pines Suite 047,Gregoryhaven,SC,90006,USA,2026-06-22,Retail
+C00188,Connor,Schmidt,connor.schmidt716@yahoo.com,+1-545-744-1496x739,8001 Robert Pine,Lake Seanbury,MI,95561,USA,2023-10-14,Retail
+C00189,James,Johnson,james.johnson386@gmail.com,+1-439-611-1926x921,1746 Scott Tunnel Apt. 406,Cookton,CO,34348,USA,2026-06-22,Wholesale
+C00190,Joseph,Alexander,joseph.alexander757@gmail.com,+1-662-371-2863x917,19470 Hernandez Route,North Elizabethview,NM,20372,USA,2025-06-14,Wholesale
+C00191,Rebecca,Andrews,,001-777-766-1830x67198,0158 Miller Mount Suite 328,South Donnaport,NY,91711,USA,2024-03-18,Retail
+C00192,Daniel,Barker,daniel.barker498@gmail.com,+1-673-920-3093x7618,05050 Wilson Valley Suite 829,North Benjamin,NM,19059,USA,2024-08-09,Retail
+C00193,Andrew,Meadows,andrew.meadows104@gmail.com,420.320.4179,79931 Ronald Valleys,Nguyenshire,RI,72051,USA,2023-03-15,Retail
+C00194,Mary,Mcguire,mary.mcguire345@gmail.com,001-725-411-4262,90219 Strickland Brook Suite 100,North Jasmine,WV,78322,USA,2026-03-13,Retail
+C00195,Robert,Aguirre,robert.aguirre852@yahoo.com,001-423-924-8763x290,456 Angela Fields,New Tiffanystad,WI,71243,USA,2024-09-06,Wholesale
+C00196,Steven,Sims,steven.sims421@yahoo.com,2317277220,64597 Dan Center Apt. 207,North Pattymouth,IL,78188,USA,2024-12-20,VIP
+C00197,Robert,Burgess,robert.burgess767@yahoo.com,515.331.3636,706 Javier Ridge Suite 265,South Jennifer,MH,83341,USA,2024-02-01,Retail
+C00198,Joseph,Rogers,joseph.rogers199@hotmail.com,001-704-521-7762,292 Christopher Walks Suite 397,Ramirezchester,AZ,96993,USA,2026-02-20,Retail
+C00199,John,Hamilton,john.hamilton797@hotmail.com,(890)860-0780,177 Christopher Terrace Apt. 632,Kennethland,IN,02588,USA,2024-07-27,Retail
+C00200,Kevin,Warner,kevin.warner142@hotmail.com,,7262 Sims Squares,Port Courtneyfurt,PR,91039,USA,2023-12-26,Retail
+C00201,Antonio,Simmons,antonio.simmons106@hotmail.com,+1-889-731-9508x501,055 Deborah Squares Apt. 832,Johnville,KY,85571,USA,2024-07-25,Retail
+C00202,Sheila,Carpenter,sheila.carpenter280@gmail.com,001-335-954-8640x15577,9513 Miller Lock Apt. 411,West Daniel,UT,19893,USA,2024-08-20,Retail
+C00203,Nancy,Meyer,nancy.meyer228@gmail.com,568-727-5670x4310,557 Ellis Port Apt. 424,South Nathan,SC,38268,USA,2025-09-23,Retail
+C00204,Brandon,Gomez,brandon.gomez515@gmail.com,+1-428-942-2223x105,2380 Spence Drive Suite 782,Davidtown,NH,53527,USA,2026-05-17,Retail
+C00205,Kayla,Gould,kayla.gould954@gmail.com,9887547492,702 Kyle Locks,South Michael,MD,43278,USA,2022-11-15,Retail
+C00206,Danielle,Silva,danielle.silva294@yahoo.com,901.787.1863,562 Wood Landing,West Michaelport,IN,58903,USA,2026-02-23,Wholesale
+C00207,Christopher,Luna,christopher.luna460@hotmail.com,(774)326-6299x12347,06462 Page Throughway Apt. 326,Angelaton,NV,40083,US,2025-12-27,Retail
+C00208,Kevin,Hansen,kevin.hansen562@gmail.com,4029447146,14719 Perkins Port,Oneillfort,NH,91497,USA,2025-12-03,Wholesale
+C00209,Nathaniel,Quinn,nathaniel.quinn309@yahoo.com,(290)625-7252,5044 Willie Trafficway Apt. 192,Moniqueport,AK,36081,USA,2025-05-23,VIP
+C00210,Haley,Davis,haley.davis114@yahoo.com,(402)384-5765,83389 Robert Club,Port Davidtown,OR,63352,USA,2024-01-17,Wholesale
+C00211,Hannah,Taylor,hannah.taylor248@hotmail.com,352.840.1322x34232,07603 Antonio Shoals,South Davidview,NV,06173,US,2022-12-01,Retail
+C00212,Elizabeth,Webster,elizabeth.webster427@gmail.com,+1-739-432-5012x495,911 Allison Stravenue,West George,WY,99331,USA,2024-10-19,Retail
+C00213,Teresa,Garcia,teresa.garcia539@hotmail.com,001-575-892-7125x663,1718 Tyler Lake,Angelaton,Illinois,11281,USA,2023-12-19,Retail
+C00214,Darrell,Campbell,,973-386-4631x7520,8112 Morales Ramp Apt. 215,West James,PA,53491,USA,2023-02-22,Wholesale
+C00215,Mary,Hardy,mary.hardy808@hotmail.com,001-399-346-5796x78427,7320 Joan Village Apt. 702,Jacobsmouth,KY,20520,USA,2023-11-12,Retail
+C00216,Cindy,Wolf,cindy.wolf753@hotmail.com,001-277-834-7784x85880,7567 Johnson Fall,Nicoleburgh,TN,64920,USA,2024-05-16,Retail
+C00217,Larry,Price,larry.price180@gmail.com,001-278-889-7782,9695 Flores Burgs Apt. 255,Port Patriciamouth,WV,50383,USA,2023-01-16,Retail
+C00218,Michael,Howard,michael.howard831@gmail.com,+1-733-234-9114x15208,698 Adams Square Suite 905,Hudsonmouth,MI,75544,USA,2023-01-16,Retail
+C00219,Tracy,Vazquez,tracy.vazquez45@yahoo.com,685.629.4563x7183,9639 Jennifer Prairie,New Matthewland,IL,74743,USA,2025-11-08,Retail
+C00220,Thomas,Clark,thomas.clark835@gmail.com,+1-948-446-8536x6498,829 Lewis View,Adamsside,WY,81034,USA,2026-01-23,Retail
+C00221,Michael,Johnson,michael.johnson480+2@yahoo.com,(911)925-4573x87571,40105 Erica Expressway Apt. 828,West Anita,CT,61063,USA,2023-07-31,Retail
+C00222,David,Stein,david.stein290+2@yahoo.com,207-802-9667,53244 Stephenson Bypass Apt. 476,Brownview,MP,50703,USA,2023-03-15,Wholesale
+C00223,Kevin,Warner,kevin.warner142+2@hotmail.com,,7262 Sims Squares,Port Courtneyfurt,PR,91039,USA,2023-12-26,Retail
+C00224,Sherry,Little,sherry.little330+2@yahoo.com,209-647-7752,16719 Edward Valleys Suite 131,Obrienbury,WV,68995,USA,2024-03-04,Retail
+C00225,Kathy,Estes,kathy.estes727+2@yahoo.com,964.947.2649x082,812 Phillip Islands,Johnsonmouth,ID,77874,USA,2026-03-28,Retail
+C00226,Richard,Davidson,richard.davidson135+2@hotmail.com,(741)841-8328,6303 Sandy Crescent,Salazarton,ND,41040,USA,2025-04-25,Retail

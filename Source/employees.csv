@@ -1,0 +1,34 @@
+employee_id,first_name,last_name,email,store_id,role,hire_date
+E0001,Danielle,Johnson,danielle.johnson@northwindcycles.com,S01,Sales Associate,2018-04-28
+E0002,Jeffrey,Doyle,jeffrey.doyle@northwindcycles.com,S01,Sales Associate,2022-12-09
+E0003,Patricia,Miller,patricia.miller@northwindcycles.com,S01,Store Manager,2020-01-04
+E0004,Anthony,Robinson,anthony.robinson@northwindcycles.com,S01,Senior Sales Associate,2020-12-19
+E0005,Anthony,Gonzalez,anthony.gonzalez@northwindcycles.com,S01,Senior Sales Associate,2022-08-18
+E0006,Amy,Robinson,amy.robinson@northwindcycles.com,S01,Senior Sales Associate,2021-12-07
+E0007,Lisa,Smith,lisa.smith@northwindcycles.com,S02,Sales Associate,2024-09-02
+E0008,Helen,Peterson,helen.peterson@northwindcycles.com,S02,Sales Associate,2018-01-15
+E0009,Susan,Rogers,susan.rogers@northwindcycles.com,S02,Assistant Manager,2017-05-26
+E0010,Colin,Abbott,colin.abbott@northwindcycles.com,S02,Sales Associate,2022-08-11
+E0011,Lindsay,Blair,lindsay.blair@northwindcycles.com,S02,Sales Associate,2021-12-03
+E0012,Teresa,Gray,teresa.gray@northwindcycles.com,S02,Sales Associate,2022-01-31
+E0013,Maria,Montgomery,maria.montgomery@northwindcycles.com,S03,Senior Sales Associate,2025-04-27
+E0014,Barbara,Bush,barbara.bush@northwindcycles.com,S03,Sales Associate,2017-06-20
+E0015,Jeremy,Roberts,jeremy.roberts@northwindcycles.com,S03,Senior Sales Associate,2017-10-17
+E0016,Jesse,Garcia,jesse.garcia@northwindcycles.com,S03,Assistant Manager,2019-09-14
+E0017,Cynthia,Diaz,cynthia.diaz@northwindcycles.com,S04,Assistant Manager,2021-08-27
+E0018,Jason,Adams,jason.adams@northwindcycles.com,S04,Store Manager,2026-02-24
+E0019,Deborah,Lynch,deborah.lynch@northwindcycles.com,S04,Sales Associate,2020-01-28
+E0020,Jessica,Martin,jessica.martin@northwindcycles.com,S04,Senior Sales Associate,2021-09-23
+E0021,Veronica,Bowman,veronica.bowman@northwindcycles.com,S05,Assistant Manager,2023-05-18
+E0022,Gabrielle,Cameron,gabrielle.cameron@northwindcycles.com,S05,Store Manager,2024-12-29
+E0023,Jeremy,Johnson,jeremy.johnson@northwindcycles.com,S05,Store Manager,2021-08-04
+E0024,Joseph,Clark,joseph.clark@northwindcycles.com,S05,Senior Sales Associate,2026-03-25
+E0025,Nancy,Edwards,nancy.edwards@northwindcycles.com,S05,Senior Sales Associate,2024-02-08
+E0026,Randall,Rocha,randall.rocha@northwindcycles.com,S05,Store Manager,2022-08-26
+E0027,Joseph,Wright,joseph.wright@northwindcycles.com,S06,Sales Associate,2024-04-30
+E0028,Jose,Richards,jose.richards@northwindcycles.com,S06,Assistant Manager,2026-02-10
+E0029,Reginald,Robinson,reginald.robinson@northwindcycles.com,S06,Sales Associate,2026-08-22
+E0030,William,Davis,william.davis@northwindcycles.com,S06,Store Manager,2021-08-10
+E0031,Daniel,Burton,daniel.burton@northwindcycles.com,S07,Store Manager,2024-03-12
+E0032,Robert,Brown,robert.brown@northwindcycles.com,S07,Store Manager,2019-05-06
+E0033,Wendy,Rice,wendy.rice@northwindcycles.com,S07,Sales Associate,2026-04-24
