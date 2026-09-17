@@ -20,6 +20,9 @@ None of this is a clean star schema. Profile it before you model it.
 | `ecommerce_orders.csv` | E-commerce platform | one online order | 465 |
 | `ecommerce_order_items.csv` | E-commerce platform | one line item within an order | ~1,407 |
 
+5 Source systems: CRM, ECOM, POS, PIM and Internal
+
+
 ## Why POS and e-commerce look different
 These two are the same underlying business event (a sale) captured by two different
 systems, and they are **not** shaped the same way — which is realistic, and which is
